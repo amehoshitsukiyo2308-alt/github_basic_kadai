@@ -224,11 +224,11 @@ border:none;}
 }
 
 /*----------------------------------------------chef--*/
- .c::after {
+ .chef::after {
   content: "シェフ";
 }
 
-.c {
+.chef {
   background-color:  #fdf5e6;
 }
 
