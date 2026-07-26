@@ -1,0 +1,192 @@
+Microsoft Windows [Version 10.0.26200.8875]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\MOBUO>mkdir git_challenge
+サブディレクトリまたはファイル git_challenge は既に存在します。
+
+C:\Users\MOBUO>mkdir git_challenge
+
+C:\Users\MOBUO>type nul > git_challenge \ hello_world.txt
+アクセスが拒否されました。
+
+C:\Users\MOBUO>type nul > git_challenge\hello_world.txt
+
+C:\Users\MOBUO>\
+'\' は、内部コマンドまたは外部コマンド、
+操作可能なプログラムまたはバッチ ファイルとして認識されていません。
+
+C:\Users\MOBUO>git status
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Documents/My Music/': Permission denied
+warning: could not open directory 'Documents/My Pictures/': Permission denied
+warning: could not open directory 'Documents/My Videos/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'NetHood/': Permission denied
+warning: could not open directory 'PrintHood/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Templates/': Permission denied
+warning: could not open directory 'スタート メニュー/': Permission denied
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .copilot/
+        .gitconfig
+        .ssh/
+        .vscode-insiders-shared/
+        .vscode-insiders/
+        .vscode-shared/
+        .vscode/
+        AppData/
+        Contacts/
+        Downloads/
+        Favorites/
+        Links/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{6f509213-2bde-11f1-94ab-7cfa80dfe304}.TM.blf
+        NTUSER.DAT{6f509213-2bde-11f1-94ab-7cfa80dfe304}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{6f509213-2bde-11f1-94ab-7cfa80dfe304}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Saved Games/
+        Searches/
+        Untitled-1.html
+        Videos/
+        empty.txt
+        filename
+        git_challenge/
+        git_tutorial/
+        kadai.txt
+        kadai_005/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+        stylesheet.css
+        "\346\216\210\346\245\2552html.html"
+        "\346\216\210\346\245\2553html.html"
+        "\346\216\210\346\245\255\357\274\224.html"
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\MOBUO>git commit -m　"38eed47(HEAD->main)日本語訳を追記
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Documents/My Music/': Permission denied
+warning: could not open directory 'Documents/My Pictures/': Permission denied
+warning: could not open directory 'Documents/My Videos/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'NetHood/': Permission denied
+warning: could not open directory 'PrintHood/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Templates/': Permission denied
+warning: could not open directory 'スタート メニュー/': Permission denied
+On branch main
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .copilot/
+        .gitconfig
+        .ssh/
+        .vscode-insiders-shared/
+        .vscode-insiders/
+        .vscode-shared/
+        .vscode/
+        AppData/
+        Contacts/
+        Downloads/
+        Favorites/
+        Links/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{6f509213-2bde-11f1-94ab-7cfa80dfe304}.TM.blf
+        NTUSER.DAT{6f509213-2bde-11f1-94ab-7cfa80dfe304}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{6f509213-2bde-11f1-94ab-7cfa80dfe304}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Saved Games/
+        Searches/
+        Untitled-1.html
+        Videos/
+        empty.txt
+        filename
+        git_challenge/
+        git_tutorial/
+        kadai.txt
+        kadai_005/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+        stylesheet.css
+        "\346\216\210\346\245\2552html.html"
+        "\346\216\210\346\245\2553html.html"
+        "\346\216\210\346\245\255\357\274\224.html"
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\MOBUO>git commit -m "05930ff hello_world.txtを追加  
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Documents/My Music/': Permission denied
+warning: could not open directory 'Documents/My Pictures/': Permission denied
+warning: could not open directory 'Documents/My Videos/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'NetHood/': Permission denied
+warning: could not open directory 'PrintHood/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Templates/': Permission denied
+warning: could not open directory 'スタート メニュー/': Permission denied
+On branch main
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .copilot/
+        .gitconfig
+        .ssh/
+        .vscode-insiders-shared/
+        .vscode-insiders/
+        .vscode-shared/
+        .vscode/
+        AppData/
+        Contacts/
+        Downloads/
+        Favorites/
+        Links/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{6f509213-2bde-11f1-94ab-7cfa80dfe304}.TM.blf
+        NTUSER.DAT{6f509213-2bde-11f1-94ab-7cfa80dfe304}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{6f509213-2bde-11f1-94ab-7cfa80dfe304}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Saved Games/
+        Searches/
+        Untitled-1.html
+        Videos/
+        empty.txt
+        filename
+        git_challenge/
+        git_tutorial/
+        kadai.txt
+        kadai_005/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+        stylesheet.css
+        "\346\216\210\346\245\2552html.html"
+        "\346\216\210\346\245\2553html.html"
+        "\346\216\210\346\245\255\357\274\224.html"
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\MOBUO>                                              
